@@ -26,6 +26,23 @@ Since the dataset does not contain actual supplier IDs, we assume that each `Pro
 
 ---
 
+## 🧠 Key Performance Indicators (KPIs)
+
+These KPIs are used to evaluate and compare supplier behavior:
+
+| KPI                    | Description                                                  |
+|------------------------|--------------------------------------------------------------|
+| **Avg Lead Time**      | Average number of days it takes a supplier to deliver        |
+| **Stockout Frequency** | How often the product runs out of stock                      |
+| **Fulfillment Time**   | Days required to fulfill an order after it's placed          |
+| **Avg Warehouse Cap**  | Average warehouse space allocated for that product           |
+| **Avg Stock**          | Average inventory level for the product                      |
+
+These KPIs help identify patterns and performance levels among suppliers.  
+For example, low lead time and stockout frequency typically signal a reliable supplier.
+
+---
+
 ## 🛠️ Methods Used
 
 - **Exploratory Data Analysis (EDA)** – to understand distributions and relationships
