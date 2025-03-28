@@ -106,7 +106,14 @@ We visualized the differences using barplots, boxplots, and correlation heatmaps
 └── README.md                     # Project overview
 ```
 
+---
+## 📚 Data Source
 
+The dataset used in this project was obtained from Kaggle:
+
+**Inventory Optimization for Retail​​**  
+Available at: [(https://www.kaggle.com/datasets/suvroo/inventory-optimization-for-retail?resource=download)]  
+Licensed under: [MIT]
 
 ---
 
